@@ -2,6 +2,7 @@
 
 
 ## Juan Felipe Lopez Moncada Id: 329645
+## https://dsaw-2025-i.github.io/dom-manipulation-JuanLopezM31/
 # Reto de Carrusel Básico con HTML, CSS y JavaScript
 
 ![Design preview for the Carousel component coding challenge](./assets/mockup.png)
