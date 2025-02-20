@@ -1,3 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/hguNOMc5)
+
+
+## Juan Felipe Lopez Moncada Id: 329645
+## https://dsaw-2025-i.github.io/dom-manipulation-JuanLopezM31/
 # Reto de Carrusel Básico con HTML, CSS y JavaScript
 
 ![Design preview for the Carousel component coding challenge](./assets/mockup.png)
